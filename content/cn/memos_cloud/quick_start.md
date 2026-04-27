@@ -210,3 +210,4 @@ MemOS 提供了丰富的项目示例，根据您的具体项目可参考以下�
 
 <!-- doc-agent-self-check: phase A first run -->
 <!-- doc-agent-self-check: phase A nbsp fix retry -->
+<!-- doc-agent-self-check: phase A pip mirror retry -->
